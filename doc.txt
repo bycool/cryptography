@@ -39,3 +39,9 @@
     AES: advance encryption standard
 
     DES:是将64bit的明文加密称64bit的对称密码算法。
+	特点：不安全
+	秘钥：8字节(64bit),只使用56bit,因为每7个bit之后会有一个bit设置为校验位。
+	加密时，会对明文进行分组，分组长度为8byte，加密之后得到的密文也是8bytes。
+
+	3DES：
+	DES加密，DES解密，DES加密。
