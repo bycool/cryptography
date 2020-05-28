@@ -27,4 +27,18 @@
 			1，一般配合对称加密使用
 			2，在建立连接时使用非对称加密协商好对称加密的算法和秘钥，然后使用对称加密进行后续加解密。
 			
-			
+6,加密领域常识
+	无
+
+7,计算机单位换算
+	bit: 位,最小单位，值：0，1
+	byte：字节  1byte=8bit
+
+8,加解密与编解码
+
+10,des介绍
+	DES： data encryption standard
+	3DES: triple data encryption standard
+	AES: advance encryption standard
+
+	DES:是将64bit的明文加密称64bit的对称密码算法。
